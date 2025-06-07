@@ -13,6 +13,9 @@ MemeCraft is a fun and simple web app built using **HTML**, **CSS**, and **JavaS
 
 MemeCraft uses JavaScript to call the Reddit Meme API endpoints, retrieves meme data including images and titles, and dynamically displays them on the webpage.
 
+![MemeCraft Preview](https://github.com/Zyrus-47/MemeCraft/blob/main/memeGenerator/Screenshot%202025-06-07%20195447.png?raw=true)
+
+
 ## Tech Stack
 
 - **HTML** for structure  
